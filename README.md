@@ -1,1 +1,1 @@
-# prak-sisdig yoa
+# PRAKTIKUM SISTEM DIGITAL
